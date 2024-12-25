@@ -1,0 +1,1 @@
+This React Native code snippet demonstrates a common issue where a component attempts to access state or props before they have been fully initialized. This often happens when rendering a component before its parent has passed down the necessary data.
